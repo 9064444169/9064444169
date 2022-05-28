@@ -9,7 +9,7 @@ I am highly motivated Frontend Developer.For me, it is essential to have a perma
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [here](http://portfolio123ankit.netlify.app/)
 * ✉️  You can contact me at [ankitxtri@gmail.com](mailto:ankitxtri@gmail.com)
-* 🧠  I'm learning Reactjs | Redux | mongodb
+* 🧠  I'm learning Reactjs | Redux | mongodb | Nodejs
 
 ### Skills
 
